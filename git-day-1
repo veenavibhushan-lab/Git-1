@@ -1,0 +1,28 @@
+supervised learning
+
+correlation vs correlation determination
+
+encoding - one hot encoding , ordinal encoding
+
+z score for 90% 1.64
+95% 1.95
+99% 2.58
+
+within 1 sd - 68% data present
+2 sd - 95.4% data
+9 sd - 99.7% data
+
+when data is not normally distributed, need to perform transformation.
+
+PCA - principal component analysis
+
+Linear regression
+
+Assumptions:
+
+L
+I
+N
+E
+
+if any assumptions are not met, we have to perform transformation(log,exponential,power)
